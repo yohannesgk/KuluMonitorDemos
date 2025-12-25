@@ -1,2 +1,2 @@
-# This Page is for visualizing the outputs of the system
+#This Page is for visualizing the outputs of the system
 AI-driven video analytics and threat detection system using deep learning–based computer vision (YOLO, PyTorch, Python). The platform processes live and recorded video streams to perform real-time object detection, tracking, and event analysis, generating actionable alerts and insights from visual data with an emphasis on performance, scalability, and accuracy.
