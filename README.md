@@ -1,2 +1,2 @@
-# Kulu Monitor Description
-AI-driven video analytics and threat detection system using deep learning–based computer vision (YOLO, PyTorch, Python). The platform processes live and recorded video streams to perform real-time object detection, tracking, and event analysis, generating actionable alerts and insights from visual data with an emphasis on performance, scalability, and accuracy.
+# Kulu Monitor Description (proprietary)
+AI-driven video analytics and threat detection system using deep learning–based computer vision (PyTorch, Python). The platform processes live and recorded video streams to perform real-time object detection, tracking, and event analysis, generating actionable alerts and insights from visual data with an emphasis on performance, scalability, and accuracy.
